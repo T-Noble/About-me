@@ -1,5 +1,5 @@
 
-![Image](MichaelJGonzalez/About-me/output-onlineasciitools (1).png)
+![Image](output-onlineasciitools (1).png)
 
 Hi, I’m Michael
  I’m interested in projects <br>
