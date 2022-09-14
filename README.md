@@ -1,4 +1,4 @@
-![ASCII Art] (
+![ASCII Art] (ascii-art.png)
 
 Hi, I’m Michael
  I’m interested in projects <br>
