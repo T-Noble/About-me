@@ -1,4 +1,4 @@
-![ASCII Art] (ascii-art.png)
+[READMEimg.md](https://github.com/MichaelJGonzalez/About-me/files/9567497/READMEimg.md)
 
 Hi, I’m Michael
  I’m interested in projects <br>
