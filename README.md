@@ -1,5 +1,5 @@
-<img src="https://github.com/MichaelJGonzalez/MichaelJGonzalez/blob/main/Capture.PNG2.PNG"> </img>
-![Image](Capture.PNG2.PNG)
+<img src="https://github.com/MichaelJGonzalez/About-me/blob/main/Earth_Western_Hemisphere_transparent_background.png"> </img>
+
 Hi, I’m Michael
  I’m interested in projects <br>
  I’m looking to collaborate on projects <br>
