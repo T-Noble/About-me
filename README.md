@@ -1,6 +1,5 @@
 
 ![Image](Capture.PNG2.PNG)
-
 Hi, I’m Michael
  I’m interested in projects <br>
  I’m looking to collaborate on projects <br>
